@@ -2,7 +2,6 @@ from random import uniform
 from numpy.random import random
 from numpy import sort
 import math
-from tdigest import TDigest
 
 wSize = 500
 results = []
